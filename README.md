@@ -3,6 +3,15 @@ privacy-seed.org website
 
 Minimal website based on Jekyll and Strange Case template
 
+## TODO
+
+* social media links
+* thank you page
+* content: updates from buildup conference
+* add password generator api
+* content: selected material from fabacademy
+
+
 ## Build and deploy
 
 ```
