@@ -1,0 +1,10 @@
+# Site settings
+title: 'Privacy Seed' # Your Title
+tagline: 'Exploring intersections<br/>
+of human identity and<br/>
+its digital extensions' # A brief tagline for your site
+sidebar_image: /images/cover.png
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
