@@ -8,3 +8,8 @@ sidebar_image: /images/cover.png
 # Build settings
 markdown: redcarpet
 highlighter: pygments
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

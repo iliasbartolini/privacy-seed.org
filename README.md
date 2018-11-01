@@ -10,15 +10,12 @@ Minimal website based on Jekyll and Strange Case template
 * content: updates from buildup conference
 * add password generator api
 * content: selected material from fabacademy
+* rephrase the main question: not "protect", use a different term
 
 
 ## Build and deploy
 
-```
-bundle install
-JEKYLL_ENV=production && bundle exec jekyll clean && bundle exec jekyll build
-rsync -avi --delete-after -e "ssh" _site/* <destination>
-```
+See `./ci_build.sh` and `./ci_deploy.sh`
 
 ## License
 
