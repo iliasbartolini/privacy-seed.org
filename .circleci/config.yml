@@ -18,8 +18,8 @@ jobs:
 
     steps:
       - checkout
-      - run: './ci_build.sh'
-      - run: './ci_deploy.sh'
+      - run: './.circleci/build.sh'
+      - run: './.circleci/deploy.sh'
 
 workflows:
   version: 2

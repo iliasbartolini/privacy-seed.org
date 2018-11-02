@@ -5,8 +5,8 @@ Minimal website based on Jekyll and Strange Case template
 
 ## TODO
 
+* continuous integration with circleci
 * social media links
-* thank you page
 * content: updates from buildup conference
 * add password generator api
 * content: selected material from fabacademy
@@ -15,7 +15,7 @@ Minimal website based on Jekyll and Strange Case template
 
 ## Build and deploy
 
-See `./ci_build.sh` and `./ci_deploy.sh`
+See in `./.circleci/`
 
 ## License
 
