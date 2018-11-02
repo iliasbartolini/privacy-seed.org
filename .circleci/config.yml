@@ -7,7 +7,7 @@ jobs:
   build_deploy:
     docker:
       # specify the version you desire here
-      - image: circleci/php:7.0.31-apache-stretch-node-browsers-legacy
+      - image: circleci/ruby:2.5-stretch-node-browsers
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
