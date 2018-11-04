@@ -15,6 +15,8 @@ Minimal website based on Jekyll and Strange Case template
 
 ## Build and deploy
 
+[![CircleCI](https://circleci.com/gh/iliasbartolini/privacy-seed.org.svg?style=svg)](https://circleci.com/gh/iliasbartolini/privacy-seed.org)
+
 See in `./.circleci/`
 
 ## License
