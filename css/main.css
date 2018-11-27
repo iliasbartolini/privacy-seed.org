@@ -89,7 +89,7 @@ article {
 
 header {
   position: relative;
-  width: 35%;
+  width: 30%;
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
@@ -328,7 +328,7 @@ article a:hover {
 }
 
 article img {
-  max-width: 100%;
+  max-width: 90%;
 }
 
 /* Posts List */
