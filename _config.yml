@@ -47,10 +47,7 @@ footer:
 
 
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-28181963-4"
-    anonymize_ip: true 
+  provider: "custom"
 
 compress_html:
   clippings: all
