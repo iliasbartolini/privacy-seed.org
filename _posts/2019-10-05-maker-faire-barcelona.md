@@ -10,5 +10,9 @@ header:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/_uMLzgLZ-Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr>
+
+![Privacy Seed at Maker Faire Barcelona](/assets/images/privacy-seed-MakerFaire-Barcelona.jpg)
+
 See [twitter updates](https://twitter.com/SeedPrivacy/status/1180444230994538496)
 
