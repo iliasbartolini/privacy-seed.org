@@ -56,6 +56,13 @@ blockquote {
     max-height: 4rem;
 }
 
+.page__hero--overlay .wrapper {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    .btn--large {
+        margin-left: 2rem;
+    }
+}
 
 a.btn--primary, a.btn--primary:visited {
     background-color: $ps-color-green;
