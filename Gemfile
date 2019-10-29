@@ -12,10 +12,10 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.0"
+gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-hydejack", "~> 7.5.0"
+gem "minimal-mistakes-jekyll", "~> 4.17.2"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -23,8 +23,9 @@ gem "jekyll-theme-hydejack", "~> 7.5.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-archives"
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-paginate-v2"
+  gem "jekyll-paginate"
   gem "jekyll-avatar"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"

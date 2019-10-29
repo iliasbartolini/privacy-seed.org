@@ -1,0 +1,66 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+$ps-color-green: #44988aff;
+$ps-color-gray: #eaedeeff;
+$ps-color-dark-gray: #686767ff;
+$theme-color-green: #11999eff;
+
+
+a:focus, button:focus {
+    outline: 1px dotted $ps-color-dark-gray;
+    outline-offset: 1px;
+}
+a {
+    color: $ps-color-green;
+}
+
+blockquote {
+    border-color: $ps-color-green;
+}
+// HEADER ELEMENTS
+
+.masthead {
+    background-color: $ps-color-green;
+    border-bottom: none;
+}
+
+.greedy-nav {
+    background: none;
+    a {
+        color: white;
+    }
+    a.site-title {
+        display: none;
+    }
+    .visible-links a::before {
+        background: none !important;
+    }
+}
+
+.search__toggle {
+    color: white; 
+}
+.search__toggle:hover {
+    color: $ps-color-dark-gray;
+}
+
+.site-logo img {
+    max-height: 4rem;
+}
+
+
+a.btn--primary, a.btn--primary:visited {
+    background-color: $ps-color-green;
+}
+
+.page__footer {
+    background-color: $ps-color-green;
+}

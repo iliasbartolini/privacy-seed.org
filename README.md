@@ -1,13 +1,14 @@
 privacy-seed.org website
 ============
 
-Minimal website based on Jekyll and Strange Case template
+Minimal website based on Jekyll and Minimal Mistakes
 
 ## TODO
 
-* continuous integration with circleci
-* social media links
+* video play
 * content: updates from buildup conference
+* content: updates from RightCon conference
+* content: updates from maker faire conference
 * add password generator api
 * content: selected material from fabacademy
 * rephrase the main question: not "protect", use a different term

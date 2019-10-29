@@ -1,13 +1,68 @@
-# Site settings
-title: 'Privacy Seed' # Your Title
-tagline: 'Exploring intersections<br/>
-of human identity and<br/>
-its digital extensions' # A brief tagline for your site
+title: 'Privacy Seed'
+title_separator: "|"
+subtitle: 'Exploring intersections of human identity and its digital extensions' 
+description: 'Privacy Seed is an installation to challenge the intersections of personal spaces and data privacy, the connection of
+human identity and its digital extensions.' 
+locale: 'en-GB'
+timezone: 'Europe/Madrid'
+
+url: 'https://privacy-seed.org'
+
+name: 'Ilias Bartolini'
+
+logo: '/assets/images/main_logo.png'
+og_image: '/assets/images/main_logo.png'
+masthead_title: ''
+
 sidebar_image: /images/cover.png
+theme: minimal-mistakes-jekyll
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+search: true
+read_time: true
+
+twitter:
+  username: "SeedPrivacy"
+
+social:
+  links:
+    - "https://twitter.com/SeedPrivacy"
+    - "https://www.linkedin.com/in/iliasbartolini"
+
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SeedPrivacy"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/iliasbartolini?tab=repositories&q=privacy-seed"
+    - label: "Linkedin"
+      icon: "fab fa fa-linkedin"
+      url: "https://www.linkedin.com/in/iliasbartolini"
+    - label: "e-mail"
+      icon: "fab fa fa-envelope "
+      url: "mailto:contact@privacy-seed.org"
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-28181963-4"
+    anonymize_ip: true 
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+minimal_mistakes_skin: "mint"
+
+include: 
+  - _pages
+  - _posts
 
 exclude:
   - Gemfile
