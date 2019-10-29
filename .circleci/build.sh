@@ -7,4 +7,4 @@ echo "Bundle install dependencies"
 bundle install
 
 echo "Build"
-JEKYLL_ENV=production && bundle exec jekyll clean && bundle exec jekyll build
+bundle exec jekyll clean && JEKYLL_ENV=production bundle exec jekyll build
