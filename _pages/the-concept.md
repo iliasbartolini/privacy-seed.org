@@ -15,12 +15,6 @@ A wooden tree structure holds at its center an anatomical heart with a heartbeat
 the participants start interacting with the tree.
 The sensor readings are used to “seed” a secure digital random number generator that is one of the foundational elements of modern cryptography.
 
-> “Arguing that you don't care about  the right  
-> to privacy because you have nothing to hide  
-> is no different than saying you don't care about  
-> free speech because you have nothing to say.”  
->                                           ― Edward Snowden
-
 How people feel when something as intimate as their heartbeat is captured, digitised and made visible in the public space?
 
 Participants after interacting with the structure are invited to answer the following question:
@@ -34,3 +28,10 @@ Their answers are written on ribbons and tied to the branches of the tree to bui
 
 Privacy Seed is a reflection on our personal-and-digital identity boundaries.  
 It is an exploration of our intimate spaces and their public digital shadows.
+
+
+> “Arguing that you don't care about  the right  
+> to privacy because you have nothing to hide  
+> is no different than saying you don't care about  
+> free speech because you have nothing to say.”  
+>                                           ― Edward Snowden
