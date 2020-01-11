@@ -1,4 +1,4 @@
-!#!/bin/sh
+#!/bin/sh
 
 echo "Check ruby version"
 ruby --version

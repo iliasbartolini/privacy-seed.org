@@ -1,4 +1,4 @@
-!#!/bin/sh
+#!/bin/sh
 
 echo "Add remote ssh key fingerprints"
 sudo pip install awscli
