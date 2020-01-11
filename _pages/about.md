@@ -27,7 +27,7 @@ Privacy Seed is present on social media as [@SeedPrivacy](https://twitter.com/Se
 
 For more detail on how to contribute for the evolution of this project check [under the roots](/under-the-roots/) of the tree :)
 
-More details about me are available see [https://blog.iliasbartolini.name](https://blog.iliasbartolini.name).
+More details about me are available see [https://privacy-seed.org](https://privacy-seed.org).
 
 ## Thank you
 
