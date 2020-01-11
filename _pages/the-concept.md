@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "What is Privacy Seed"
-permalink: /the-concept/
+permalink: /the-concept/index.html
 featured_image: /assets/images/heart-sensor-2.jpg
 header:
     overlay_image: /assets/images/heart-sensor-2.jpg

@@ -25,7 +25,7 @@ the_project:
     title: "The concept"
     excerpt: "Privacy Seed is an installation to challenge the intersections of personal spaces and data privacy, the connection of
 human identity and its digital extensions."
-    url: "/the-concept/"
+    url: "/the-concept/index.html"
     btn_label: "Find more"
     btn_class: "btn--primary"
 feature_row:
@@ -33,21 +33,21 @@ feature_row:
     alt: "Ribbon"
     title: "Exhibitions"
     excerpt: "Past exhibitions and where to find Privacy Seed next."
-    url: "/exhibitions/"
+    url: "/exhibitions/index.html"
     btn_label: "Explore"
     btn_class: "btn--primary"
   - image_path: /assets/images/heart-with-hand-2.jpg
     alt: "Tree interaction"
     title: "Making of"
     excerpt: "Privacy Seed is built with open software and design principles using modern digital fabrication techniques."
-    url: "/making-of/"
+    url: "/making-of/index.html"
     btn_label: "Learn more"
     btn_class: "btn--primary"
   - image_path: /assets/images/heart-between-hands.jpg
     alt: "Holding heart sensor"
     title: "Contact us"
     excerpt: "Do you want to host Privacy Seed at an event or art space?<br/> Find more about the artist and our contacts."
-    url: "/about/"
+    url: "/about/index.html"
     btn_label: "Contact us"
     btn_class: "btn--primary"
 ---

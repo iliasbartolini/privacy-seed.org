@@ -1,7 +1,7 @@
 main:
   - title: "The concept"
-    url: /the-concept/
+    url: /the-concept/index.html
   - title: "Exhibitions"
-    url: /exhibitions/
+    url: /exhibitions/index.html
   - title: "About"
-    url: /about/
+    url: /about/index.html

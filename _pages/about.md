@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About me: Ilias Bartolini"
-permalink: /about/
+permalink: /about/index.html
 featured_image: /assets/images/heart-between-hands.jpg
 header:
     overlay_image: /assets/images/heart-between-hands.jpg

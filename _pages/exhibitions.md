@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Exhibitions"
-permalink: /exhibitions/
+permalink: /exhibitions/index.html
 featured_image: /assets/images/ribbon-the-right-of-people.jpg
 header:
     overlay_image: /assets/images/heart-sensor-2.jpg
