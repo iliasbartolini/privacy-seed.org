@@ -5,7 +5,6 @@
 version: 2.1
 jobs:
   build_deploy:
-    context: AWS_ilias
     docker:
       # specify the version you desire here
       - image: circleci/ruby:2.6.5-buster-node-browsers-legacy
@@ -22,3 +21,4 @@ workflows:
   build-deploy:
     jobs:
       - build_deploy
+          context: AWS_ilias
