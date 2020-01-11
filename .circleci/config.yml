@@ -21,4 +21,4 @@ workflows:
   build-deploy:
     jobs:
       - build_deploy
-          context: AWS_ilias
+          context: aws
