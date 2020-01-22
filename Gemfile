@@ -30,6 +30,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-relative-links"
+  gem "jekyll-redirect-from"
   gem "jemoji"
 end
 

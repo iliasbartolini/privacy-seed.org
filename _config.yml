@@ -29,7 +29,6 @@ social:
     - "https://twitter.com/SeedPrivacy"
     - "https://www.linkedin.com/in/iliasbartolini"
 
-
 footer:
   links:
     - label: "Twitter"
@@ -69,3 +68,6 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE.md
+
+plugins:
+  - jekyll-redirect-from

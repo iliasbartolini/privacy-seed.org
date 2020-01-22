@@ -2,6 +2,8 @@
 layout: single
 title: "About me: Ilias Bartolini"
 permalink: /about/index.html
+redirect_from:
+  - /about
 featured_image: /assets/images/heart-between-hands.jpg
 header:
     overlay_image: /assets/images/heart-between-hands.jpg

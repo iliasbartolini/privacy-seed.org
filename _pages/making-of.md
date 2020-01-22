@@ -1,7 +1,9 @@
 ---
 layout: single
 title: "Making of"
-permalink: /making-of
+permalink: /making-of/index.html
+redirect_from:
+  - /making-of
 featured_image: /assets/images/heart-with-hand-2.jpg
 header:
     overlay_image: /assets/images/heart-with-hand-2.jpg

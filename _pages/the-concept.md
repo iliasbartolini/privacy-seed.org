@@ -2,6 +2,8 @@
 layout: single
 title: "What is Privacy Seed"
 permalink: /the-concept/index.html
+redirect_from:
+  - /the-concept
 featured_image: /assets/images/heart-sensor-2.jpg
 header:
     overlay_image: /assets/images/heart-sensor-2.jpg

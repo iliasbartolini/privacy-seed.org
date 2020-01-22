@@ -22,3 +22,6 @@ workflows:
     jobs:
       - build_deploy:
           context: aws
+          filters:
+            branches:
+              only: master

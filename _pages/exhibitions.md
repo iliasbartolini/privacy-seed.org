@@ -2,6 +2,8 @@
 layout: single
 title: "Exhibitions"
 permalink: /exhibitions/index.html
+redirect_from:
+  - /exhibitions
 featured_image: /assets/images/ribbon-the-right-of-people.jpg
 header:
     overlay_image: /assets/images/heart-sensor-2.jpg
